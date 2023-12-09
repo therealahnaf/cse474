@@ -8,7 +8,7 @@ Paper title:
 Integrating Agent-Based Traffic Modeling with Pollution Emission and Dispersion Models: A Comprehensive Approach to Simulate Urban Air Pollution
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1YV06u2REyJJEidvakGpO0bkAcnJI9wvcEqXeuNhH1hQ/edit?usp=sharing
 
 Group Number:
 10
